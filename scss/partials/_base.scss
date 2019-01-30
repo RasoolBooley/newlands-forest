@@ -16,8 +16,8 @@ body {
     @include center;
     font-size: 2rem;
     padding-top: 20vh;
-
 }
+
 
 h1,
 h2 {
@@ -38,7 +38,7 @@ h3 {
 }
 
 p {
-    @include center;
+    padding-left: 2rem;
 }
 
 img {

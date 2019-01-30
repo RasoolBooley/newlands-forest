@@ -42,12 +42,7 @@ h3 {
   margin-bottom: 1.7em; }
 
 p {
-  background-color: #fff;
-  text-align: center;
-  vertical-align: middle;
-  text-decoration: none;
-  width: 100%;
-  height: 100vh; }
+  padding-left: 2rem; }
 
 img {
   max-width: 100%;
@@ -73,9 +68,6 @@ a:hover {
 /* Web Fonts -------------------- */
 @font-face {
   font-family: 'Unlock', cursive; }
-head {
-  background-image: url(/images/adventure-calm-clouds-414171.jpg); }
-
 .main-heading {
   font-size: 3.5rem;
   color: #fff;
