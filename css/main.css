@@ -11,14 +11,14 @@ body {
   font: 1em/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 .main-header {
-  background-image: url(../images/adventure-calm-clouds-414171.jpg);
+  background-image: linear-gradient(rgba(255, 255, 255, 0.267), #ececec86), url(../images/adventure-calm-clouds-414171.jpg);
   background-repeat: no-repeat;
   background-color: #fff;
   text-align: center;
   vertical-align: middle;
   text-decoration: none;
   width: 100%;
-  height: 70vh;
+  height: 100vh;
   font-size: 2rem;
   padding-top: 20vh; }
 
@@ -33,7 +33,7 @@ h2 {
   vertical-align: middle;
   text-decoration: none;
   width: 100%;
-  height: 70vh; }
+  height: 100vh; }
 
 h3 {
   font-size: 1.25em;
@@ -47,7 +47,7 @@ p {
   vertical-align: middle;
   text-decoration: none;
   width: 100%;
-  height: 70vh; }
+  height: 100vh; }
 
 img {
   max-width: 100%;
@@ -107,7 +107,7 @@ head {
 
 .arrow {
   width: 60px;
-  margin-top: 15px; }
+  margin-top: 120px; }
 
 /* Media Queries -------------------- */
 @media (max-width: 1024px) {

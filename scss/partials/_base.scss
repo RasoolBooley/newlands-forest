@@ -11,11 +11,12 @@ body {
 }
 
 .main-header {
-    background-image: url(../images/adventure-calm-clouds-414171.jpg);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.267) ,#ececec86), url(../images/adventure-calm-clouds-414171.jpg);
     background-repeat: no-repeat;
     @include center;
     font-size: 2rem;
     padding-top: 20vh;
+
 }
 
 h1,
